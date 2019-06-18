@@ -8,7 +8,8 @@ The data set is present on kaggle<br/>
 <br/>
 <h1> Infected Leaves </h1>
 <p float="left">
-  <img src="" width="250" hspace="10"/>
-  <img src="/Screenshot_20190616-221951.jpg" width="250" hspace="10"/>
-  <img src="/Screenshot_20190616-221906.jpg" width="250" hspace="10"/>
+  <img src="im1.jpg" width="200" hspace="10"/>
+  <img src="im2.jpg" width="200" hspace="10"/>
+  <img src="im3.jpg" width="200" hspace="10"/>
+  <img src="im4.jpg" width="200" hspace="10"/>
 </p>
