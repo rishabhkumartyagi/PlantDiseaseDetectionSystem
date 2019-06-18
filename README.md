@@ -9,8 +9,8 @@ The data set is present on kaggle<br/>
 <h1> Infected Leaves </h1>
 Samples
 <p float="left">
-  <img src="im1.jpg" width="250" hspace="10"/>
-  <img src="im2.jpg" width="250" hspace="10"/>
-  <img src="im3.jpg" width="250" hspace="10"/>
-  <img src="im4.jpg" width="250" hspace="10"/>
+  <img src="im1.jpg" width="250" hspace="20"/>
+  <img src="im2.jpg" width="250" hspace="20"/>
+  <img src="im3.jpg" width="250" hspace="20"/>
+  <img src="im4.jpg" width="250" hspace="20"/>
 </p>
